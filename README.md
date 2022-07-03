@@ -1,5 +1,5 @@
 # Data Exploration with SQL. 
-I showcased my SQL skills by answering the following questions:  
+I showcased my **SQL skills by answering the following questions (from simple to difficult questions):  
 * Total downloads for Sugar Rush
 * Total downloads for C apps
 * Uninstalls in December 2021
@@ -14,7 +14,11 @@ I showcased my SQL skills by answering the following questions:
 * In October 2021, which app has most 1star ratings?
 * Does it change by December 2021?
 * What are the best download figures for each app?
-* What is the least downloaded app in each month?  
-The dataset and questions were gotten from Chandoo YouTube channel, click here . He answered the questions using Microsoft Excel.  
+* What is the least downloaded app in each month? 
+ 
+The table name is sample. Check out my sql queries and have fun.  
+
+The dataset and questions were gotten from Chandoo YouTube video, click [here](https://www.youtube.com/watch?v=B5hayFelHDU). He answered the questions using **Microsoft Excel**.  
+
 Your feedbacks will be greatly appreciated.  
 
