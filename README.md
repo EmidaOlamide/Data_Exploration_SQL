@@ -16,7 +16,9 @@ I showcased my **SQL skills by answering the following questions** (from simple 
 * What are the best download figures for each app?
 * What is the least downloaded app each month? 
  
-The table name is sample. And the tool used is MySQL workbench. Check out my SQL queries and have fun.  
+The table name is sample. And the tool used is MySQL workbench. 
+
+Check out my SQL queries and have fun.  
 
 The dataset and questions were gotten from the Chandoo YouTube video, click [here](https://www.youtube.com/watch?v=B5hayFelHDU). He answered the questions using **Microsoft Excel**.  
 
