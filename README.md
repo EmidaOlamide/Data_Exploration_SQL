@@ -24,3 +24,6 @@ The dataset and questions were gotten from the Chandoo YouTube video, click [her
 
 Your feedback will be greatly appreciated.  
 
+Warm Regards,
+
+**Olamide Emida**
